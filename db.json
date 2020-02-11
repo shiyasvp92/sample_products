@@ -19,7 +19,7 @@
     { "id": 17, "title": "TV", "price": "Rs 39220", "imageUrl": "https://source.unsplash.com/200x200/?tv"  },
     { "id": 18, "title": "Mouse", "price": "Rs 670", "imageUrl": "https://source.unsplash.com/200x200/?mouse"  },
     { "id": 19, "title": "Keyboard", "price": "Rs 230", "imageUrl": "https://source.unsplash.com/200x200/?keyboard"  },
-    { "id": 20, "title": "Bag", "price": "Rs 899", "imageUrl": "https://source.unsplash.com/200x200/?bag"  },
+    { "id": 20, "title": "Bag", "price": "Rs 899", "imageUrl": "https://source.unsplash.com/200x200/?bag"  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
